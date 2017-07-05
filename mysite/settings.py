@@ -25,7 +25,7 @@ SECRET_KEY = 'pottbsd%uowxih5j2skb8r(k1^iwbs795!6gm*)!79x@1hw=_b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','renestro.pythonanywhere.com']
 
 
 # Application definition
